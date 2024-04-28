@@ -1,0 +1,53 @@
+.c p {
+  color: rgb(220, 120, 11);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 20%;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 115px;
+  opacity: 0.7;
+}
+.c h1 {
+  color: rgb(21, 12, 1);
+  font-family: Philosopher;
+  font-size: 31.25px;
+  font-weight: 700;
+  line-height: 35px;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: capitalize;
+  margin-top: 7px;
+}
+.c2 h1 {
+  color: rgb(21, 12, 1);
+  font-family: Philosopher;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0%;
+  margin-top: 33px;
+}
+.c2 p {
+  color: rgb(21, 12, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  margin-top: 15px;
+  max-width: 300px;
+}
+.c2 {
+  max-width: 300px;
+  text-align: center;
+}
+.c1 {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  justify-content: center;
+  margin-top: 44px;
+}

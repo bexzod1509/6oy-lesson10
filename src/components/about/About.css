@@ -1,0 +1,55 @@
+.d p {
+  color: rgb(220, 120, 11);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 20%;
+  text-align: left;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+.d h1 {
+  color: rgb(21, 12, 1);
+  font-family: Philosopher;
+  font-size: 31.25px;
+  font-weight: 700;
+  line-height: 40.63px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 487px;
+  margin-top: 10px;
+}
+.d h2 {
+  color: rgb(21, 12, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 487px;
+  margin-top: 30px;
+}
+.d button {
+  border-radius: 5px;
+  background: rgb(220, 120, 11);
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  padding: 12px 30px;
+  cursor: pointer;
+  border-style: none;
+  margin-top: 30px;
+}
+.d {
+  display: flex;
+  align-items: center;
+  gap: 97px;
+  justify-content: center;
+  margin-top: 123px;
+}
