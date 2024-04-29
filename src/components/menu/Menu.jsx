@@ -61,7 +61,7 @@ export default class Menu extends Component {
         </div>
         <div className="e">
           {data?.map((e) => (
-            <div className="e1">
+            <div key={e.id} className="e1">
               <img src={e.img} alt="" />
               <div className="e2">
                 <h1>{e.title}</h1>
